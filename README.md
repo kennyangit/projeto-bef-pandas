@@ -21,10 +21,10 @@ A democracia representativa pressupõe que a composição dos candidatos reflita
 ## 📊 Gráficos
 
 ### Candidaturas por Raça
-![Candidaturas por Raça](img/candidaturas_por_raca.png)
+![Candidaturas por Raça](img/candidaturas_raca_uf.png)
 
 ### Candidaturas por Gênero
-![Candidaturas por Gênero](img/candidaturas_por_genero.png)
+![Candidaturas por Gênero](img/candidaturas_genero_uf.png)
 
 ---
 
@@ -32,9 +32,8 @@ A democracia representativa pressupõe que a composição dos candidatos reflita
 
 | Arquivo | Descrição |
 |--------|-----------|
-| `dados_candidatura_por_raca.csv` | Totais de candidaturas separados por raça/cor (BRANCA, PARDA, PRETA, INDÍGENA) |
-| `dados_candidatura_por_genero.csv` | Totais de candidaturas separados por gênero (feminino e masculino) |
-| `total_candidaturas.csv` | Arquivo consolidado com raça e gênero em um único CSV |
+| `candidaturas_raca_por_uf.csv` | Totais de candidaturas separados por raça/cor (BRANCA, PARDA, PRETA, INDÍGENA) |
+| `candidaturas_genero_por_uf.csv` | Totais de candidaturas separados por gênero (feminino e masculino) |
 
 ---
 
